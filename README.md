@@ -1,4 +1,4 @@
 # Python-Exercices
 
 
-6 premier exercices fais
+6 premier exercices fait
